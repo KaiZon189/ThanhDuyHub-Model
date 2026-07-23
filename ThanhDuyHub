@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/KaiZon189/ThanhDuyHub-Model/refs/heads/main/obfuscated-ThanhDuyVip_merged.lua.txt"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThanhDuyHub/ThanhDuyHub/refs/heads/main/ThanhDuyHub.lua"))()
