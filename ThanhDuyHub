@@ -1,1 +1,3 @@
+--// The getkey feature will be added soon
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ThanhDuyHub/ThanhDuyHub/refs/heads/main/ThanhDuyHub.lua"))()
